@@ -1,0 +1,12 @@
+footer{
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+
+.chart{
+    border: 2px solid black;
+    display: inline-block;
+}
